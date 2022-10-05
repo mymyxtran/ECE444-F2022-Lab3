@@ -3,9 +3,8 @@ This repo is copied from https://github.com/ECE444-2022Fall/Assignment_1_starter
 
 # Lab 3: Education Pathway
 
-This repository host the source code for Education Pathway project. You can view the online deployed version [here](https://assignment-1-starter-template.herokuapp.com/). We are using this repo as a starting point for assignment 1.
+This is a modified version of the previous Assignment1 template.
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for frontend, and [Flask-tdd](https://github.com/mjhea0/flaskr-tdd) for backend.
+The deploye version can be found at https://lab3-docker.herokuapp.com.
 
 
