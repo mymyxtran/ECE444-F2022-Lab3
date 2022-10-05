@@ -27,7 +27,7 @@ Add a screenshot of the application running locally. Remember to include the add
 ## Activity 4: Building and running the docker image locally
 1.	Build and run docker images with the Docker using the command “docker compose up --build”.
 2.	Add a screenshot of the log for the above command to your README file on the “lab3” branch. E.g.
-![](images/Activity4.png)
+![](images/Activity4-v2.png)
 
 
 ### Things learned:
